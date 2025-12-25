@@ -1,7 +1,5 @@
-import { title } from "@/components/primitives";
 import DefaultLayout from "@/layouts/default";
-import {Snippet} from "@heroui/react";
-import {Code} from "@heroui/react";
+import { Snippet } from "@heroui/react";
 
 export default function DocsPage() {
   return (

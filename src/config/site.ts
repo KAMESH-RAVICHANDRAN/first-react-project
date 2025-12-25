@@ -47,5 +47,6 @@ export const siteConfig = {
   links: {
     github: "https://github.com/KAMESH-RAVICHANDRAN",
     docs: "https://heroui.com",
+    sponsor: "https://github.com/sponsors/KAMESH-RAVICHANDRAN",
   },
 };
